@@ -1,0 +1,10 @@
+../dataset/images/sperm_morph_09_resized_0_16.jpeg
+../dataset/images/sperm_morph_17_resized_12_8.jpeg
+../dataset/images/sperm_morph_38_resized_20_4.jpeg
+../dataset/images/sperm_morph_64_resized_20_0.jpeg
+../dataset/images/sperm_morph_100_resized_16_8.jpeg
+../dataset/images/sperm_morph_124_resized_20_4.jpeg
+../dataset/images/sperm_morph_168_resized_20_4.jpeg
+../dataset/images/sperm_morph_172_resized_20_4.jpeg
+../dataset/images/sperm_morph_420_resized_20_4.jpeg
+../dataset/images/sperm_morph_395_resized_20_4.jpeg
