@@ -1,0 +1,6 @@
+classes=2
+train=./data/sperm_all_train.txt
+valid=./data/sperm_all_val.txt
+names=./data/sperm.names
+backup=backup/
+eval=coco
