@@ -1,0 +1,48 @@
+<annotation>
+    <folder>images</folder>
+    <filename>sperm_morph_317_resized_ud.jpeg</filename>
+    <path>/Users/Manav/Desktop/cs231n-project/faster-rcnn-data/images/sperm_morph_317_resized_ud.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>776</width>
+        <height>582</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Abnormal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>486</ymin>
+            <xmax>286</xmax>
+            <ymax>564</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Normal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>84</xmin>
+            <ymin>111</ymin>
+            <xmax>395</xmax>
+            <ymax>578</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Normal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>388</xmin>
+            <ymin>9</ymin>
+            <xmax>459</xmax>
+            <ymax>567</ymax>
+        </bndbox>
+    </object>
+</annotation>

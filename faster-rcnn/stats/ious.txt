@@ -1,0 +1,63 @@
+For IoU Threshold: 0.1
+True Positives: 210, True Negatives: 822, False Positives: 92, False Negatives 176
+Accuracy: 0.793846153846
+Recall: 0.544041450777
+F-measure: 0.610465116279
+Mean IoU: 0.685438953865
+
+For IoU Threshold: 0.2
+True Positives: 204, True Negatives: 800, False Positives: 114, False Negatives 182
+Accuracy: 0.772307692308
+Recall: 0.528497409326
+F-measure: 0.579545454545
+Mean IoU: 0.700675976351
+
+For IoU Threshold: 0.3
+True Positives: 193, True Negatives: 780, False Positives: 134, False Negatives 193
+Accuracy: 0.748461538462
+Recall: 0.5
+F-measure: 0.541374474053
+Mean IoU: 0.714969734222
+
+For IoU Threshold: 0.4
+True Positives: 186, True Negatives: 756, False Positives: 158, False Negatives 200
+Accuracy: 0.724615384615
+Recall: 0.481865284974
+F-measure: 0.509589041096
+Mean IoU: 0.726788304835
+
+For IoU Threshold: 0.5
+True Positives: 179, True Negatives: 716, False Positives: 198, False Negatives 207
+Accuracy: 0.688461538462
+Recall: 0.463730569948
+F-measure: 0.469200524246
+Mean IoU: 0.740942367703
+
+For IoU Threshold: 0.6
+True Positives: 165, True Negatives: 620, False Positives: 294, False Negatives 221
+Accuracy: 0.603846153846
+Recall: 0.427461139896
+F-measure: 0.390532544379
+Mean IoU: 0.767906678368
+
+For IoU Threshold: 0.7
+True Positives: 128, True Negatives: 455, False Positives: 459, False Negatives 258
+Accuracy: 0.448461538462
+Recall: 0.331606217617
+F-measure: 0.263103802672
+Mean IoU: 0.808308888005
+
+For IoU Threshold: 0.8
+True Positives: 78, True Negatives: 235, False Positives: 679, False Negatives 308
+Accuracy: 0.240769230769
+Recall: 0.20207253886
+F-measure: 0.136482939633
+Mean IoU: 0.858644336201
+
+For IoU Threshold: 0.9
+True Positives: 13, True Negatives: 26, False Positives: 888, False Negatives 373
+Accuracy: 0.03
+Recall: 0.0336787564767
+F-measure: 0.020202020202
+Mean IoU: 0.920877425671
+

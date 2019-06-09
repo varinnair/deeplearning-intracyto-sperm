@@ -1,0 +1,2 @@
+On Testing Data (20% of actual data)
+Mean mAP: 0.568208987104
